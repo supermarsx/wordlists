@@ -1,5 +1,8 @@
 <p align="center"><img width=60% src="https://github.com/whois-team/brand/blob/master/png/whoisteam_black.png"></p>
-<p align="center"><a href="https://github.com/whois-team/wordlists/wordlists"><img src="https://img.shields.io/badge/wordlists-12-orange.svg"></a>  <a href="https://github.com/whois-team/wordlists/"><img src="https://img.shields.io/github/repo-size/whois-team/wordlists.svg?style=flat"></a>  <a href="https://unlicense.org/"><img src="https://img.shields.io/github/license/whois-team/wordlists.svg?style=flat"></a></p>
+<p align="center"><a href="https://github.com/whois-team/wordlists/wordlists"><img src="https://img.shields.io/badge/wordlists-13-orange.svg"></a>  <a href="https://github.com/whois-team/wordlists/"><img src="https://img.shields.io/github/repo-size/whois-team/wordlists.svg?style=flat"></a>  <a href="https://unlicense.org/"><img src="https://img.shields.io/github/license/whois-team/wordlists.svg?style=flat"></a></p>
+
+
+
 ## Overview
 
 Duplicate removed, case insensitive ordered misc wordlists for different uses. There may be duplicates across different files.
