@@ -7,7 +7,7 @@
 
 Duplicate removed, case insensitive ordered misc wordlists for different uses. There may be duplicates across different files.
 These wordlists may help with different security tasks ranging from password security testing (hashcat, etc) to domain probing (fierce).
-These wordlists where collectedand compiled from random places across the web. Over 15 million words across all files.
+These wordlists where collected and compiled from random places across the web. Over 15 million words across all files.
 
 ## Contents
 
